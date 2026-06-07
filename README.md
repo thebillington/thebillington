@@ -16,5 +16,6 @@ I also continue to moderate OCR H446 A-Level Computer Science coursework annuall
 
 ## Links
 
-* CV: [https://thebillington.github.io/cv](https://thebillington.github.io/cv)
+* Portfolio: [https://thebillington.co.uk](https://thebillington.co.uk)
+* CV: [https://thebillington.co.uk/cv](https://thebillington.co.uk/cv)
 * LinkedIn: [https://linkedin.com/in/thebillington](https://linkedin.com/in/thebillington)
