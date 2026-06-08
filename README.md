@@ -1,4 +1,4 @@
-Full Stack Engineer with ckground in education and focus on building reliable, maintainable software. Currently working at Blue Light Card.
+Full Stack Engineer with background in education and focus on building reliable, maintainable software. Currently working at Blue Light Card.
 
 I am particularly interested in team owned developer experience (DevX), platform engineering and developer productivity.
 
