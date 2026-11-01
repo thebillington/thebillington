@@ -13,7 +13,6 @@ I enjoy building tools and personal projects and experimenting with new technolo
 * [tphysics](https://tphysics.uk) — a zero-dependency, single-file Python game engine for the classroom.
 * [pydle](https://pydle.uk) — a free browser-based Python REPL and turtle graphics editor.
 * [Steno Start](https://stenostart.uk) — a guided, offline introduction to stenography on your phone.
-* [Health Assist](https://github.com/thebillington/health-assist) — a free, local-first Apple Health to Home Assistant integration and iOS app.
 * [Steno Start Open Dictionary](https://github.com/thebillington/steno-start-open-dict) — a CC BY-SA 4.0 beginner steno dictionary.
 
 ## Links
