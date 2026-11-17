@@ -1,28 +1,20 @@
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/thebillington)
 
-Full Stack Engineer with background in education and focus on building reliable, maintainable software. Currently working at Blue Light Card.
+I am a Full Stack Engineer with a background in Engineering Management and Education currently working at Blue Light Card.
 
-I am particularly interested in team owned developer experience (DevX), platform engineering and developer productivity.
+I am proficient with modern stacks, both writing application code and building and maintaining IaC and CI/CD across backend, web and mobile. I work with AI day to day, building the tooling the team uses; MCP servers, shared memory and custom harnesses.
 
 ## Open Source & Personal Projects
 
-I enjoy building tools and personal projects and experimenting with new technologies. I am a strong advocate for learning computing from first principles, with particular interests in assembly programming, digital logic and compiler design. I build a lot of software for personal use that I almost always release for free on Github.
+Generally most of my historical work is available completely free. I have particular interest in tools for Computer Science Education and am a big proponent of teaching Computer Science from first principles. I have an interest in Assembly and low-level programming and have done significant work on the Game Boy in gbZ80 Assembly.
 
-### Selected projects
-
-* [tphysics](https://tphysics.uk) — a zero-dependency, single-file Python game engine for the classroom.
-* [pydle](https://pydle.uk) — a free browser-based Python REPL and turtle graphics editor.
-* [Steno Start](https://stenostart.uk) — a guided, offline introduction to stenography on your phone.
-* [Steno Start Open Dictionary](https://github.com/thebillington/steno-start-open-dict) — a CC BY-SA 4.0 beginner steno dictionary.
+More recently I have built a homelab and have embraced Agentic Engineering, using open weight models both via subscription (Opencode) and locally (llama.cpp running on 2080 SUPER 8GB + 3060 12GB) to complete a number of personal projects I've had on the back burner.
 
 ## Links
 
-* Portfolio: [https://thebillington.co.uk](https://thebillington.co.uk)
-* CV: [https://thebillington.co.uk/cv](https://thebillington.co.uk/cv)
+* CV: [https://billy.rebecchi.uk](https://billy.rebecchi.uk)
 * LinkedIn: [https://linkedin.com/in/thebillington](https://linkedin.com/in/thebillington)
 
 ## Support
 
-Everything here is free and open source. If a project saves you time or helps
-your students, you can support ongoing maintenance through
-[GitHub Sponsors](https://github.com/sponsors/thebillington).
+Everything here is free and open licensed. If a project helps you or helps your students you can support me [here](https://github.com/sponsors/thebillington).
